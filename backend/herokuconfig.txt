@@ -1,0 +1,11 @@
+postgres:// 
+
+xnucvgifdhrmua /*Nome de usuário */
+:
+1d3fed38ff3d68e3a0ef2ffbc1653f988555c2128efd0d275341a29069f60063 /*Senha do usuário */
+@
+ec2-34-205-209-14.compute-1.amazonaws.com /* Host onde está hospedado o bd */
+:
+5432 /* porta */
+/
+d6cebge7nl2jr9 /* Nome da base de dados*/
